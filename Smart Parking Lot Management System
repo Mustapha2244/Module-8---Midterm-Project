@@ -1,0 +1,98 @@
+Smart Parking Lot Management System
+Product Brochure
+Project Title: Smart Parking Lot Management System
+Team Members: Mustapha Ibrahim
+Key Features:
+•	Real-time Parking Availability – Users can check open spots in real-time.
+•	Online Booking System – Drivers can reserve parking spaces in advance.
+•	Automated Entry/Exit System – QR code-based access for seamless parking.
+•	Payment Integration – Secure digital payments for bookings.
+•	Admin Dashboard – Manage parking slots, track usage, and generate reports.
+System Requirements:
+•	Hardware: Internet-enabled device (PC, tablet, or smartphone).
+•	Software: Browser with JavaScript support, PostgreSQL for database.
+•	Hosting: Cloud-based deployment (AWS/Heroku recommended).
+Architecture Overview:
+•	Frontend: React.js (User interface)
+•	Backend: Flask/Django (Handles business logic and API calls)
+•	Database: PostgreSQL (Stores user and parking slot data)
+•	Authentication: JWT-based authentication
+•	Payment Gateway: Stripe/PayPal integration
+ 
+System Requirements Documentation
+1. Cover Page Project Name: Smart Parking Lot Management System
+Author: Mustapha Ibrahim
+2. Table of Contents
+1.	Problem Statement & System Requirements
+2.	Functional Requirements Specification
+3.	System Sequence Diagram
+4.	Activity Diagram
+5.	User Interface Specification
+6.	Project Plan
+7.	References
+8.	Highlighted Changes
+3. Problem Statement & System Requirements Traffic congestion in urban areas is worsened by inefficient parking management. The Smart Parking Lot Management System aims to improve parking efficiency by providing real-time availability tracking, reservation, and automated access.
+Functional Requirements:
+•	User registration & authentication.
+•	Parking slot tracking and reservations.
+•	Online payment integration.
+•	Admin dashboard for monitoring usage.
+4. System Sequence Diagram: 
+
+ 
+
+
+
+5. Activity Diagram: 
+ 
+
+
+
+
+
+6. User Interface Specification:
+•	Home Page: Displays available parking spots.
+•	Booking Page: Allows users to reserve a spot.
+•	Payment Page: Secure checkout for reservations.
+•	Admin Dashboard: Management of parking slots.
+
+
+•	7. Project Plan:
+Milestone	Task	Completion Date
+Week 1-2	UI/UX Design	Completed
+Week 3-4	Backend API Development	Completed
+Week 5-6	Payment Gateway Integration	In Progress
+Week 7-8	Testing & Deployment	Pending
+8. References:
+1.	IEEE Smart Parking Systems:
+o	IEEE Xplore Digital Library. (2023). Smart Parking System: A Survey on Current Trends and Future Scope.Retrieved from https://ieeexplore.ieee.org
+2.	React.js Official Documentation:
+o	Meta. (2024). React – A JavaScript library for building user interfaces. Retrieved from https://react.dev/
+3.	Django Official Documentation:
+o	Django Software Foundation. (2024). Django Web Framework Documentation. Retrieved from https://docs.djangoproject.com/
+4.	Flask Official Documentation:
+o	Pallet Projects. (2024). Flask: The Python Microframework. Retrieved from https://flask.palletsprojects.com/
+5.	PostgreSQL Official Documentation:
+o	PostgreSQL Global Development Group. (2024). PostgreSQL: The World's Most Advanced Open Source Relational Database. Retrieved from https://www.postgresql.org/docs/
+9. Highlighted Changes:
+•	Improved user authentication security.
+•	Added payment gateway integration.
+ 
+Midterm Presentation Slides Outline
+1.	Introduction 
+o	Project title & purpose
+o	Target audience
+o	Key problem it solves
+2.	Live System Demonstration 
+o	Showcasing user registration & login
+o	Booking a parking spot
+o	Real-time availability tracking
+o	Payment & checkout process
+o	Admin dashboard features
+3.	Future Plans (1-2 min)
+o	Completing payment integration
+o	Improving UI responsiveness
+o	Implementing machine learning for demand forecasting
+
+To conclude, the Smart Parking Lot Management System offers a seamless and efficient solution to urban parking challenges by leveraging real-time tracking, automated entry/exit, and secure payment integration, while providing robust management tools for administrators to optimize parking resources. To conclude, the Smart Parking Lot Management System offers a seamless and efficient solution to urban parking challenges by leveraging real-time tracking, automated entry/exit, and secure payment integration, while providing robust management tools for administrators to optimize parking resources.
+
